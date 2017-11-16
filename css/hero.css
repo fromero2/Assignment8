@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+.hero {display: grid;}
+.hero-box {padding: 25px;}
+=======
+.hero {display: grid;}
+.hero-box {padding: 25px;}
+>>>>>>> 1d575edacb70412d340a1cd0210d36e3a7018d77
+.hero-box:first-child {padding: 25px 0 0 0;}
